@@ -1,4 +1,4 @@
-<h1 align="center">🔖 Hchat - Chat Redesing</h1>
+<h1 align="center">🔖 Hchat - Chat Redesign</h1>
 
 ### First version which will be modified in the future
 
