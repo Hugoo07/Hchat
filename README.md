@@ -4,6 +4,10 @@
 
 **Version 1.0**
 
+**📷 - Preview**
+(https://github.com/Hugoo07/Hchat/assets/118628334/125b1c4d-755b-431f-8801-1e25d228807a)
+
+
 **⚠️ - Dependencies**
 - [FiveM Chat Default](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bgameplay%5D/chat)
 
