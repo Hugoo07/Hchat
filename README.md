@@ -1,7 +1,7 @@
 <h1 align="center">🔖 Hchat - Chat Redesing</h1>
-## Chat FiveM redesign by Hugoo
+# Chat FiveM redesign by Hugoo
 
-# **First version** which will be modified in the future
+### **First version** which will be modified in the future
 
 **Version 1.0**
 
