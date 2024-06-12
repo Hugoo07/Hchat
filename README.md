@@ -14,7 +14,7 @@
 
 ### Chat FiveM redesign by Hugoo
 
-** Other Information**
+**Other Information**
 the current script does not present any modification impacting the ``chat`` dependency, for the moment my script only allows you to modify the visual interface of the default chat script.
 But also, for the moment I have provided a **command** allowing you to clear the chat:
 ```lua
