@@ -5,7 +5,7 @@
 **Version 1.0**
 
 **⚠️ - Dependencies**
-- [Chat](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bgameplay%5D/chat)
+- [FiveM Chat Default](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bgameplay%5D/chat)
 
 **🛠 - Install**
 - Install the script (``Hchat-main``)
