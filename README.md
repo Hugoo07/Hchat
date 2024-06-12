@@ -13,3 +13,13 @@
 - ensure ``Hchat`` anywhere after the default ``chat`` resource in your **server.cfg**.
 
 ### Chat FiveM redesign by Hugoo
+
+** Other Information**
+the current script does not present any modification impacting the ``chat`` dependency, for the moment my script only allows you to modify the visual interface of the default chat script.
+But also, for the moment I have provided a **command** allowing you to clear the chat:
+```lua
+RegisterCommand('clear', function() -- Simple command clear
+ TriggerEvent('chat:clear')
+end)
+```
+In game you just have to do /clear to clear the chat
