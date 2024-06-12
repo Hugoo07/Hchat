@@ -22,4 +22,4 @@ RegisterCommand('clear', function() -- Simple command clear
  TriggerEvent('chat:clear')
 end)
 ```
-In game you just have to do /clear to clear the chat
+In game you just have to do ``/clear`` to clear the chat
