@@ -5,7 +5,8 @@
 **Version 1.0**
 
 **📷 - Preview**
-[Picture](https://github.com/Hugoo07/Hchat/assets/118628334/125b1c4d-755b-431f-8801-1e25d228807a)
+
+![Picture](https://github.com/Hugoo07/Hchat/assets/118628334/125b1c4d-755b-431f-8801-1e25d228807a)
 
 
 **⚠️ - Dependencies**
