@@ -34,5 +34,6 @@ this script is inspired by the visual of the FiveM server **FlashBack** / **Flas
 
 ### Chat FiveM redesign by Hugoo
 
+
 > [!IMPORTANT]
 > [Support Discord](https://discord.gg/etVwYkwuNB)
