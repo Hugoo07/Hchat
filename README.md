@@ -2,6 +2,10 @@
 
 ### First version which will be modified in the future
 
+> [!IMPORTANT]
+> [Support Discord](https://discord.gg/etVwYkwuNB)
+
+
 **Version 1.0**
 
 **📷 - Preview**
@@ -33,7 +37,3 @@ In game you just have to do ``/clear`` to clear the chat
 this script is inspired by the visual of the FiveM server **FlashBack** / **FlashFA**
 
 ### Chat FiveM redesign by Hugoo
-
-
-> [!IMPORTANT]
-> [Support Discord](https://discord.gg/etVwYkwuNB)
